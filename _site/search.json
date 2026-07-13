@@ -42,6 +42,41 @@
     "text": "Mora-Carrera1 et al. Genome-wide consequences of range expansion and mating system transitions in Primula vulgaris. Genome Biology and Evolution. Link\nPotente et al. The Primula edelbergii S‐locus is an example of a jumping supergene. Molecular Ecology Resources. Link\nKeller et al. Island plants with newly discovered reproductive traits have higher capacity for uniparental reproduction, supporting Baker’s law. Scientific Reports. Link\nMora-Carrera1 et al. Genomic analyses elucidate S‐locus evolution in response to intra‐specific losses of distyly in Primula vulgaris. Ecology and Evolution. Link\nStubbs et al. The genomes of Darwin’s primroses reveal chromosome‐scale adaptive introgression and differential permeability of species boundaries. New Phytologist. Link"
   },
   {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "",
+    "text": "Stubbs et al. Whole‐genome analyses disentangle reticulate evolution of primroses in a biodiversity hotspot. New Phytologist. Link\nMora-Carrera1 et al. Different molecular changes underlie the same phenotypic transition: origins and consequences of independent shifts to homostyly within species. Molecular Ecology. Link"
+  },
+  {
+    "objectID": "publications.html#section-4",
+    "href": "publications.html#section-4",
+    "title": "Publications",
+    "section": "",
+    "text": "Keller et al. Asymmetries of reproductive isolation are reflected in directionalities of hybridization: integrative evidence on the complexity of species boundaries. New Phytologist. Link"
+  },
+  {
+    "objectID": "publications.html#section-5",
+    "href": "publications.html#section-5",
+    "title": "Publications",
+    "section": "",
+    "text": "Mora-Carrera1 et al. On the adaptive value of monomorphic versus dimorphic enantiostyly in Solanum rostratum. Annals of Botany. Link"
+  },
+  {
+    "objectID": "publications.html#section-6",
+    "href": "publications.html#section-6",
+    "title": "Publications",
+    "section": "",
+    "text": "Mora-Carrera1. México y sus polinizadores: crónica de una crisis anunciada. Oikos=. Link"
+  },
+  {
+    "objectID": "github.html",
+    "href": "github.html",
+    "title": "GitHub",
+    "section": "",
+    "text": "GitHub"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -98,73 +133,10 @@
     "text": "R\nBash\nPython\nGit\nLinux\nConda\nSlurm"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "I am a computational biologist specializing in comparative genomics, evolutionary genomics, transcriptomics, and scalable bioinformatics workflows.\nDuring my PhD and postdoctoral research at the University of Zurich, I developed reproducible computational pipelines for large genomic datasets using R, Bash, HPC environments, and modern bioinformatics tools.\nMy interests include:\n\nComparative genomics\nPopulation genomics\nRNA-seq analysis\nGenome assembly\nBioinformatics pipeline development\nReproducible research\n\n\n\n\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
-  },
-  {
-    "objectID": "index.html#phd-computational-biologist-bioinformatician-genomics-data-scientist",
-    "href": "index.html#phd-computational-biologist-bioinformatician-genomics-data-scientist",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "I am a computational biologist specializing in comparative genomics, evolutionary genomics, transcriptomics, and scalable bioinformatics workflows.\nDuring my PhD and postdoctoral research at the University of Zurich, I developed reproducible computational pipelines for large genomic datasets using R, Bash, HPC environments, and modern bioinformatics tools.\nMy interests include:\n\nComparative genomics\nPopulation genomics\nRNA-seq analysis\nGenome assembly\nBioinformatics pipeline development\nReproducible research"
-  },
-  {
     "objectID": "index.html#what-i-build",
     "href": "index.html#what-i-build",
     "title": "Emiliano Mora-Carrera, PhD",
     "section": "What I build",
     "text": "What I build\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
-  },
-  {
-    "objectID": "index.html#current-position",
-    "href": "index.html#current-position",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "Postdoctoral Researcher\nUniversity of Zurich"
-  },
-  {
-    "objectID": "publications.html#section-3",
-    "href": "publications.html#section-3",
-    "title": "Publications",
-    "section": "",
-    "text": "Stubbs et al. Whole‐genome analyses disentangle reticulate evolution of primroses in a biodiversity hotspot. New Phytologist. Link\nMora-Carrera1 et al. Different molecular changes underlie the same phenotypic transition: origins and consequences of independent shifts to homostyly within species. Molecular Ecology. Link"
-  },
-  {
-    "objectID": "publications.html#section-4",
-    "href": "publications.html#section-4",
-    "title": "Publications",
-    "section": "",
-    "text": "Keller et al. Asymmetries of reproductive isolation are reflected in directionalities of hybridization: integrative evidence on the complexity of species boundaries. New Phytologist. Link"
-  },
-  {
-    "objectID": "publications.html#section-5",
-    "href": "publications.html#section-5",
-    "title": "Publications",
-    "section": "",
-    "text": "Mora-Carrera1 et al. On the adaptive value of monomorphic versus dimorphic enantiostyly in Solanum rostratum. Annals of Botany. Link"
-  },
-  {
-    "objectID": "publications.html#section-6",
-    "href": "publications.html#section-6",
-    "title": "Publications",
-    "section": "",
-    "text": "Mora-Carrera1. México y sus polinizadores: crónica de una crisis anunciada. Oikos=. Link"
-  },
-  {
-    "objectID": "GitHub.html",
-    "href": "GitHub.html",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "GitHub"
-  },
-  {
-    "objectID": "github.html",
-    "href": "github.html",
-    "title": "GitHub",
-    "section": "",
-    "text": "GitHub"
   }
 ]
