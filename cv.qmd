@@ -1,0 +1,70 @@
+---
+title: CV
+---
+
+# Curriculim Vitae
+
+## Current Position
+
+Postdoctoral Researcher
+
+University of Zurich
+
+---
+
+## Education
+
+### PhD Evolutionary Biology
+
+University of Zurich
+
+2018–2023
+
+### MSc Biological Sciences
+
+National Autonomous University of Mexico
+
+2014–2016
+
+### BSc Biology
+
+University of Sonora
+
+2009–2014
+
+---
+
+## Technical Skills
+
+### Programming
+
+- R
+- Bash
+- Python
+
+### Bioinformatics
+
+- Comparative Genomics
+- RNA-seq
+- GWAS
+- Variant Calling
+- Phylogenetics
+
+### Computing
+
+- Linux
+- Slurm
+- Conda
+- Git
+
+---
+
+## Awards
+
+Swiss Government Excellence Scholarship
+
+Forschungskredit Candoc UZH
+
+---
+
+A downloadable PDF version of my CV will be available [here](files/CV_EmilianoMora_long.pdf).

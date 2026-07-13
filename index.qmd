@@ -1,0 +1,32 @@
+---
+title: "Emiliano Mora-Carrera, PhD"
+---
+![](images/profile.png){width=250px .rounded-circle}
+
+# Computational Biologist | Bioinformatician | Genomics Data Scientist
+
+I am a computational biologist specializing in comparative genomics, evolutionary genomics, transcriptomics, and scalable bioinformatics workflows.
+
+During my PhD and postdoctoral research at the University of Zurich, I developed reproducible computational pipelines for large genomic datasets using R, Bash, HPC environments, and modern bioinformatics tools.
+
+My interests include:
+
+- Comparative genomics
+- Population genomics
+- RNA-seq analysis
+- Genome assembly
+- Bioinformatics pipeline development
+- Reproducible research
+
+---
+
+## What I build
+
+- Reproducible bioinformatics workflows
+- Comparative genomics pipelines
+- Variant calling workflows
+- RNA-seq analysis pipelines
+- Data visualization
+- HPC-based genomic analyses
+
+---

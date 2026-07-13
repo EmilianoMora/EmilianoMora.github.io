@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Emiliano Mora-Carrera, PhD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    
+      - about.qmd
+
+      - publications.qmd
+
+      - github.qmd
+
+      - cv.qmd
+
+      - contact.qmd
+
+format:
+  html:
+    theme:
+      - flatly
+    css: styles.css
+    toc: true
