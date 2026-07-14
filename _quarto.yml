@@ -7,23 +7,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-    
-      - about.qmd
-
-      - publications.qmd
-
-      - github.qmd
-
-      - cv.qmd
-
-      - contact.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: github.qmd
+        text: GitHub
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contacts
 
 format:
   html:
-    theme:
-      - flatly
+    theme: flatly
     css: styles.css
     toc: true
-    
+
 execute:
   freeze: auto
