@@ -1,7 +1,3 @@
----
-title: CV
----
-
 # Curriculim Vitae
 
 ## Current Position

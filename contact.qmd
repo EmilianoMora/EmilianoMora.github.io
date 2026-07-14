@@ -1,7 +1,3 @@
----
-title: Contact
----
-
 ## Emiliano Mora-Carrera
 
 Computational Biologist | Bioinformatician | Data Scientist

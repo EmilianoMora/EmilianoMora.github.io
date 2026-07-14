@@ -1,56 +1,54 @@
----
-title: Publications
----
-
 # Peer-reviewed publications.
-^1^First-authored paper.
+First-authored paper are **bolfaced**.
 
 ## 2026
 
-* Potente et al. *Distinct genomic architectures but the same gene underlie the convergent evolution of a plant supergene*. **Science Advances**. [Link](https://www.science.org/doi/full/10.1126/sciadv.aec1996)
+* Potente et al. *Distinct genomic architectures but the same gene underlie the convergent evolution of a plant supergene*. Science Advances. [Link](https://www.science.org/doi/full/10.1126/sciadv.aec1996)
 
 ---
 
 ## 2025
 
-* Mora-Carrera^1^ et al. *Genomic patterns of loss of distyly and polyploidization in primroses*. **Molecular Biology and Evolution**. [Link](https://academic.oup.com/mbe/article/42/8/msaf162/8210698)
+* **Mora-Carrera** et al. *Genomic patterns of loss of distyly and polyploidization in primroses*. Molecular Biology and Evolution. [Link](https://academic.oup.com/mbe/article/42/8/msaf162/8210698)
 
 ---
 
 ## 2024
 
-* Mora-Carrera^1^ et al. *Genome-wide consequences of range expansion and mating system transitions in Primula vulgaris*. **Genome Biology and Evolution**. [Link](https://academic.oup.com/gbe/article/16/10/evae208/7785347)
+* **Mora-Carrera** et al. *Genome-wide consequences of range expansion and mating system transitions in Primula vulgaris*. Genome Biology and Evolution. [Link](https://academic.oup.com/gbe/article/16/10/evae208/7785347)
 
-* Potente et al. *The Primula edelbergii S‐locus is an example of a jumping supergene*. **Molecular Ecology Resources**. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13988)
+* Potente et al. *The Primula edelbergii S‐locus is an example of a jumping supergene*. Molecular Ecology Resources. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13988)
 
-* Keller et al. *Island plants with newly discovered reproductive traits have higher capacity for uniparental reproduction, supporting Baker’s law*. **Scientific Reports**. [Link](https://www.nature.com/articles/s41598-024-62065-4)
+* Keller et al. *Island plants with newly discovered reproductive traits have higher capacity for uniparental reproduction, supporting Baker’s law*. Scientific Reports. [Link](https://www.nature.com/articles/s41598-024-62065-4)
 
-* Mora-Carrera^1^ et al. *Genomic analyses elucidate S‐locus evolution in response to intra‐specific losses of distyly in Primula vulgaris*. **Ecology and Evolution**. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10940)
+* **Mora-Carrera** et al. *Genomic analyses elucidate S‐locus evolution in response to intra‐specific losses of distyly in Primula vulgaris*. Ecology and Evolution. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10940)
 
-* Stubbs et al. *The genomes of Darwin's primroses reveal chromosome‐scale adaptive introgression and differential permeability of species boundaries*. **New Phytologist**. [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19361)
+* Stubbs et al. *The genomes of Darwin's primroses reveal chromosome‐scale adaptive introgression and differential permeability of species boundaries*. New Phytologist. [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19361)
 
 ---
 
 ## 2023
 
-* Stubbs et al. *Whole‐genome analyses disentangle reticulate evolution of primroses in a biodiversity hotspot*. **New Phytologist**. [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18525)
+* Stubbs et al. *Whole‐genome analyses disentangle reticulate evolution of primroses in a biodiversity hotspot*. New Phytologist. [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18525)
 
-* Mora-Carrera^1^ et al. *Different molecular changes underlie the same phenotypic transition: origins and consequences of independent shifts to homostyly within species*. **Molecular Ecology**. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16270)
+* **Mora-Carrera** et al. *Different molecular changes underlie the same phenotypic transition: origins and consequences of independent shifts to homostyly within species*. Molecular Ecology. [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.16270)
 
 ---
 
 ## 2022
 
-* Keller et al. *Asymmetries of reproductive isolation are reflected in directionalities of hybridization: integrative evidence on the complexity of species boundaries*. **New Phytologist**. [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16849)
+* Keller et al. *Asymmetries of reproductive isolation are reflected in directionalities of hybridization: integrative evidence on the complexity of species boundaries*. New Phytologist. [Link](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16849)
 
 ---
 
 ## 2019
 
-* Mora-Carrera^1^ et al. *On the adaptive value of monomorphic versus dimorphic enantiostyly in Solanum rostratum*. **Annals of Botany**. [Link](https://academic.oup.com/aob/article/123/1/205/5088834)
+* **Mora-Carrera** et al. *On the adaptive value of monomorphic versus dimorphic enantiostyly in Solanum rostratum*. Annals of Botany. [Link](https://academic.oup.com/aob/article/123/1/205/5088834)
 
 ---
 
+# Outreaching
+
 ## 2017
 
-* Mora-Carrera^1^. *México y sus polinizadores: crónica de una crisis anunciada*. **Oikos=**. [Link](https://publicaciones.ecologia.unam.mx/oikos4/images/portadas-pdfs/N19.pdf)
+* Mora-Carrera. *México y sus polinizadores: crónica de una crisis anunciada*. **Oikos=**. [Link](https://publicaciones.ecologia.unam.mx/oikos4/images/portadas-pdfs/N19.pdf)
