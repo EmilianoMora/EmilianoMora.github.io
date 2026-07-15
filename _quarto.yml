@@ -20,7 +20,10 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme:
+      light: lumen
+      dark: darkly
+    max-width: 1400px
     css: styles.css
     toc: true
 
