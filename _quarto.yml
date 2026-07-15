@@ -20,11 +20,9 @@ website:
 
 format:
   html:
+    page-layout: full
     theme:
-      light: lumen
-      dark: darkly
-    max-width: 1400px
-    css: styles.css
+      light: [lumen, theme.scss]
     toc: true
 
 execute:

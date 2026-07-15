@@ -1,6 +1,4 @@
----
-title: "Emiliano Mora-Carrera, PhD"
----
+
 ![](images/profile.png){width=250px .rounded-circle}
 
 # Computational Biologist | Bioinformatician | Genomics Data Scientist
