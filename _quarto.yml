@@ -22,8 +22,8 @@ format:
   html:
     page-layout: full
     theme:
-      light: [lumen, theme.scss]
+      light: yeti
     toc: true
-
+    css: styles.css
 execute:
   freeze: auto
