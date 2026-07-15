@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "github.html",
-    "href": "github.html",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "GitHub"
+    "objectID": "index.html#what-i-build",
+    "href": "index.html#what-i-build",
+    "title": "Computational Biologist | Bioinformatician | Genomics Data Scientist",
+    "section": "What I build",
+    "text": "What I build\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
   },
   {
     "objectID": "about.html",
@@ -26,20 +26,6 @@
     "title": "About Me",
     "section": "",
     "text": "R\nBash\nPython\nGit\nLinux\nConda\nSlurm"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "Computational Biologist | Bioinformatician | Data Scientist\n📍 Zurich, Switzerland\n📧 emiliano.mora.carrera@gmail.com\nGitHub\nLinkedIn\nAvailability: from August–September 2026."
-  },
-  {
-    "objectID": "contact.html#emiliano-mora-carrera",
-    "href": "contact.html#emiliano-mora-carrera",
-    "title": "Emiliano Mora-Carrera, PhD",
-    "section": "",
-    "text": "Computational Biologist | Bioinformatician | Data Scientist\n📍 Zurich, Switzerland\n📧 emiliano.mora.carrera@gmail.com\nGitHub\nLinkedIn\nAvailability: from August–September 2026."
   },
   {
     "objectID": "cv.html",
@@ -75,6 +61,27 @@
     "title": "Curriculim Vitae",
     "section": "",
     "text": "Swiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Emiliano Mora-Carrera, PhD",
+    "section": "",
+    "text": "Computational Biologist | Bioinformatician | Data Scientist\n📍 Zurich, Switzerland\n📧 emiliano.mora.carrera@gmail.com\nGitHub\nLinkedIn\nAvailability: from August–September 2026."
+  },
+  {
+    "objectID": "contact.html#emiliano-mora-carrera",
+    "href": "contact.html#emiliano-mora-carrera",
+    "title": "Emiliano Mora-Carrera, PhD",
+    "section": "",
+    "text": "Computational Biologist | Bioinformatician | Data Scientist\n📍 Zurich, Switzerland\n📧 emiliano.mora.carrera@gmail.com\nGitHub\nLinkedIn\nAvailability: from August–September 2026."
+  },
+  {
+    "objectID": "github.html",
+    "href": "github.html",
+    "title": "Emiliano Mora-Carrera, PhD",
+    "section": "",
+    "text": "GitHub"
   },
   {
     "objectID": "publications.html",
@@ -131,12 +138,5 @@
     "title": "Peer-reviewed publications.",
     "section": "2017",
     "text": "2017\n\nMora-Carrera. México y sus polinizadores: crónica de una crisis anunciada. Oikos=. Link"
-  },
-  {
-    "objectID": "index.html#what-i-build",
-    "href": "index.html#what-i-build",
-    "title": "Computational Biologist | Bioinformatician | Genomics Data Scientist",
-    "section": "What I build",
-    "text": "What I build\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
   }
 ]
