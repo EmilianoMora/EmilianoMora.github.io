@@ -21,7 +21,7 @@ During my PhD and postdoctoral research at the University of Zurich, I developed
 
 - Data analysis pipelines for large and complex datasets
 - Reproducible computational workflows
-- Statistical models approaches
+- Statistical model approaches
 - Automated data processing systems
 - Scientific software and analytical tools
 - High-performance computing solutions
