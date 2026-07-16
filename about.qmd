@@ -1,10 +1,6 @@
 # About Me
 
-I am a PhD-trained Computational Biologist with over six years of experience combining molecular biology and bioinformatics to investigate complex biological questions.
-
-My research has focused on comparative genomics, population genomics, transcriptomics, and genome evolution. Throughout my academic career I have designed scalable computational workflows capable of analyzing hundreds of sequencing datasets.
-
-Although my background originates in evolutionary biology, my strongest expertise lies in computational problem solving, reproducible workflows, and extracting biological insights from large datasets.
+My background is in evolutionary biology, where I used computational approaches to analyze large-scale biological datasets. Through my research, I developed expertise in programming, statistical analysis, workflow automation, and scientific computing. I am interested in applying these skills to data-driven challenges in biotechnology, healthcare, and technology.
 
 ## Technical Interests
 
@@ -19,12 +15,31 @@ Although my background originates in evolutionary biology, my strongest expertis
 - Workflow automation
 - Scientific visualization
 
-## Programming
+## Technical Skills
 
-- R
-- Bash
-- Python
-- Git
-- Linux
-- Conda
-- Slurm
+### Programming
+
+Python · R · Bash · SQL
+
+### Data Science
+
+Statistical modeling · Data visualization · Exploratory data analysis
+
+### Software Engineering
+
+Git · Linux · Workflow automation · Reproducible research · Documentation
+
+### Computing
+
+HPC · Parallel computing · Cloud computing · Slurm
+
+### Domain expertise
+
+Bioinformatics · Evolutionary biology · Genomics · Molecular evolution
+
+## Open to opportunities in:
+
+- Bioinformatics Scientist
+- Computational Biologist
+- Data Scientist
+- Data Analyst

@@ -116,7 +116,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I am a PhD-trained Computational Biologist with over six years of experience combining molecular biology and bioinformatics to investigate complex biological questions.\nMy research has focused on comparative genomics, population genomics, transcriptomics, and genome evolution. Throughout my academic career I have designed scalable computational workflows capable of analyzing hundreds of sequencing datasets.\nAlthough my background originates in evolutionary biology, my strongest expertise lies in computational problem solving, reproducible workflows, and extracting biological insights from large datasets.\n\n\n\nPopulation genomics\nComparative genomics\nEvolutionary genomics\nTranscriptomics\nRNA-seq\nGWAS\nVariant calling\nHPC computing\nWorkflow automation\nScientific visualization\n\n\n\n\n\nR\nBash\nPython\nGit\nLinux\nConda\nSlurm"
+    "text": "My background is in evolutionary biology, where I used computational approaches to analyze large-scale biological datasets. Through my research, I developed expertise in programming, statistical analysis, workflow automation, and scientific computing. I am interested in applying these skills to data-driven challenges in biotechnology, healthcare, and technology.\n\n\n\nPopulation genomics\nComparative genomics\nEvolutionary genomics\nTranscriptomics\nRNA-seq\nGWAS\nVariant calling\nHPC computing\nWorkflow automation\nScientific visualization\n\n\n\n\n\n\nPython · R · Bash · SQL\n\n\n\nStatistical modeling · Data visualization · Exploratory data analysis\n\n\n\nGit · Linux · Workflow automation · Reproducible research · Documentation\n\n\n\nHPC · Parallel computing · Cloud computing · Slurm\n\n\n\nBioinformatics · Evolutionary biology · Genomics · Molecular evolution\n\n\n\n\n\nBioinformatics Scientist\nComputational Biologist\nData Scientist\nData Analyst"
   },
   {
     "objectID": "about.html#technical-interests",
@@ -137,7 +137,7 @@
     "href": "index.html#what-i-build",
     "title": "Computational Biologist | Bioinformatician | Data Scientist",
     "section": "What I build",
-    "text": "What I build\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
+    "text": "What I build\n\nData analysis pipelines for large and complex datasets\nReproducible computational workflows\nStatistical models approaches\nAutomated data processing systems\nScientific software and analytical tools\nHigh-performance computing solutions"
   },
   {
     "objectID": "cv.html#profesional-experience",
@@ -180,5 +180,26 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Decider of the XII Contest “Leamos la Ciencia para Todos” Fondo de Cultura Económica (Summer 2012).\nMora-Carrera, E. (2018) México y sus polinizadores: Crónica de una crisis anunciada. Published in ‘Oikos=’ (UNAM Magazine for Science Outreach).\nCo-host of the Botanical Club UNISON (2014-2015).\nScience Information Day at UZH Faculty of Science (March 2019).\nCo-organizer of the UZH EvoBio PhD retreat (June 2019).\nOrganizer of the PhD Symposium from the Institute of Systematics and Evolutionary Botany University of Zurich (September 2021).\nEvent Manager. Pint of Science (May 2023)"
+  },
+  {
+    "objectID": "index.html#my-interests-include",
+    "href": "index.html#my-interests-include",
+    "title": "Computational Biologist | Bioinformatician | Data Scientist",
+    "section": "My interests include:",
+    "text": "My interests include:\n\nComparative genomics\nPopulation genomics\nRNA-seq analysis\nGenome assembly\nBioinformatics pipeline development\nReproducible research"
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Python · R · Bash · SQL\n\n\n\nStatistical modeling · Data visualization · Exploratory data analysis\n\n\n\nGit · Linux · Workflow automation · Reproducible research · Documentation\n\n\n\nHPC · Parallel computing · Cloud computing · Slurm\n\n\n\nBioinformatics · Evolutionary biology · Genomics · Molecular evolution"
+  },
+  {
+    "objectID": "about.html#open-to-opportunities-in",
+    "href": "about.html#open-to-opportunities-in",
+    "title": "About Me",
+    "section": "",
+    "text": "Bioinformatics Scientist\nComputational Biologist\nData Scientist\nData Analyst"
   }
 ]

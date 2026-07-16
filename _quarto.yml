@@ -9,12 +9,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: publications.qmd
-        text: Publications
       - href: github.qmd
         text: GitHub
       - href: cv.qmd
         text: CV
+      - href: publications.qmd
+        text: Publications
       - href: contact.qmd
         text: Contacts
 
