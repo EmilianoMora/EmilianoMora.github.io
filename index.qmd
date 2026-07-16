@@ -1,7 +1,7 @@
 
 ![](images/profile.png){width=250px .rounded-circle}
 
-# Computational Biologist | Bioinformatician | Genomics Data Scientist
+# Computational Biologist | Bioinformatician | Data Scientist
 
 I am a computational biologist specializing in comparative genomics, evolutionary genomics, transcriptomics, and scalable bioinformatics workflows.
 
