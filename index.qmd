@@ -7,7 +7,7 @@ I am a computational biologist specializing in comparative genomics, evolutionar
 
 During my PhD and postdoctoral research at the University of Zurich, I developed reproducible computational pipelines for large genomic datasets using R, Bash, HPC environments, and modern bioinformatics tools.
 
-My interests include:
+## My interests include:
 
 - Comparative genomics
 - Population genomics
@@ -16,7 +16,6 @@ My interests include:
 - Bioinformatics pipeline development
 - Reproducible research
 
----
 
 ## What I build
 
