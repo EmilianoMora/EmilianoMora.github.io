@@ -70,4 +70,8 @@ Forschungskredit Candoc UZH
 
 ---
 
+## Certificates
+
+A downloadable PDF version of all certificates can be found [here](files/certificate_concatenated.pdf).
+
 A downloadable PDF version of my CV will be available [here](files/CV_EmilianoMora_long.pdf).

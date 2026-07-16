@@ -81,7 +81,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "University of Zurich Zurich, Switzerland\n\n\n\nNational Autonomous University of Mexico\nMexico City, Mexico\n\n\n\n\n\n\n\nUniversity of Zurich (2018 to 2023)\nZurich, Switzerland\n\n\n\nNational Autonomous University of Mexico (2014 to 2016)\nMexico City, Mexico\n\n\n\nUniversity of Sonora (2009 to 2014)\nHermosillo, Sonora, Mexico\n\n\n\n\n\n\n\n\nR\nBash\nPython\n\n\n\n\n\nComparative Genomics\nRNA-seq\nGWAS\nVariant Calling\nPhylogenetics\n\n\n\n\n\nLinux\nSlurm\nConda\nGit\n\n\n\n\n\n\nSwiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
+    "text": "University of Zurich Zurich, Switzerland\n\n\n\nNational Autonomous University of Mexico\nMexico City, Mexico\n\n\n\n\n\n\n\nUniversity of Zurich (2018 to 2023)\nZurich, Switzerland\n\n\n\nNational Autonomous University of Mexico (2014 to 2016)\nMexico City, Mexico\n\n\n\nUniversity of Sonora (2009 to 2014)\nHermosillo, Sonora, Mexico\n\n\n\n\n\n\n\n\nR\nBash\nPython\n\n\n\n\n\nComparative Genomics\nRNA-seq\nGWAS\nVariant Calling\nPhylogenetics\n\n\n\n\n\nLinux\nSlurm\nConda\nGit\n\n\n\n\n\n\nSwiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\n\n\n\nA downloadable PDF version of all certificates can be found here.\nA downloadable PDF version of my CV will be available here."
   },
   {
     "objectID": "cv.html#current-position",
@@ -109,7 +109,7 @@
     "href": "cv.html#awards",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Swiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
+    "text": "Swiss Government Excellence Scholarship\nForschungskredit Candoc UZH"
   },
   {
     "objectID": "about.html",
@@ -145,5 +145,12 @@
     "title": "Curriculum Vitae",
     "section": "",
     "text": "University of Zurich Zurich, Switzerland\n\n\n\nNational Autonomous University of Mexico\nMexico City, Mexico"
+  },
+  {
+    "objectID": "cv.html#certificates",
+    "href": "cv.html#certificates",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "A downloadable PDF version of all certificates can be found here.\nA downloadable PDF version of my CV will be available here."
   }
 ]
