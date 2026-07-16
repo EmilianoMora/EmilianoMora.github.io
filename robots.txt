@@ -1,1 +1,4 @@
-Sitemap: https://EmilianoMora.github.io/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://emilianomora.github.io/sitemap.xml
