@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html#what-i-build",
-    "href": "index.html#what-i-build",
-    "title": "Computational Biologist | Bioinformatician | Genomics Data Scientist",
-    "section": "What I build",
-    "text": "What I build\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
+    "objectID": "github.html",
+    "href": "github.html",
+    "title": "Emiliano Mora-Carrera, PhD",
+    "section": "",
+    "text": "GitHub"
   },
   {
     "objectID": "about.html",
@@ -28,41 +28,6 @@
     "text": "R\nBash\nPython\nGit\nLinux\nConda\nSlurm"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Curriculim Vitae",
-    "section": "",
-    "text": "Postdoctoral Researcher\nUniversity of Zurich\n\n\n\n\n\n\nUniversity of Zurich\n2018–2023\n\n\n\nNational Autonomous University of Mexico\n2014–2016\n\n\n\nUniversity of Sonora\n2009–2014\n\n\n\n\n\n\n\n\nR\nBash\nPython\n\n\n\n\n\nComparative Genomics\nRNA-seq\nGWAS\nVariant Calling\nPhylogenetics\n\n\n\n\n\nLinux\nSlurm\nConda\nGit\n\n\n\n\n\n\nSwiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
-  },
-  {
-    "objectID": "cv.html#current-position",
-    "href": "cv.html#current-position",
-    "title": "Curriculim Vitae",
-    "section": "",
-    "text": "Postdoctoral Researcher\nUniversity of Zurich"
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "Curriculim Vitae",
-    "section": "",
-    "text": "University of Zurich\n2018–2023\n\n\n\nNational Autonomous University of Mexico\n2014–2016\n\n\n\nUniversity of Sonora\n2009–2014"
-  },
-  {
-    "objectID": "cv.html#technical-skills",
-    "href": "cv.html#technical-skills",
-    "title": "Curriculim Vitae",
-    "section": "",
-    "text": "R\nBash\nPython\n\n\n\n\n\nComparative Genomics\nRNA-seq\nGWAS\nVariant Calling\nPhylogenetics\n\n\n\n\n\nLinux\nSlurm\nConda\nGit"
-  },
-  {
-    "objectID": "cv.html#awards",
-    "href": "cv.html#awards",
-    "title": "Curriculim Vitae",
-    "section": "",
-    "text": "Swiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Emiliano Mora-Carrera, PhD",
@@ -77,11 +42,39 @@
     "text": "Computational Biologist | Bioinformatician | Data Scientist\n📍 Zurich, Switzerland\n📧 emiliano.mora.carrera@gmail.com\nGitHub\nLinkedIn\nAvailability: from August–September 2026."
   },
   {
-    "objectID": "github.html",
-    "href": "github.html",
-    "title": "Emiliano Mora-Carrera, PhD",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "GitHub"
+    "text": "University of Zurich Zurich, Switzerland\n\n\n\nNational Autonomous University of Mexico\nMexico City, Mexico\n\n\n\n\n\n\n\nUniversity of Zurich (2018 to 2023)\nZurich, Switzerland\n\n\n\nNational Autonomous University of Mexico (2014 to 2016)\nMexico City, Mexico\n\n\n\nUniversity of Sonora (2009 to 2014)\nHermosillo, Sonora, Mexico\n\n\n\n\n\n\n\n\nR\nBash\nPython\n\n\n\n\n\nComparative Genomics\nRNA-seq\nGWAS\nVariant Calling\nPhylogenetics\n\n\n\n\n\nLinux\nSlurm\nConda\nGit\n\n\n\n\n\n\nSwiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
+  },
+  {
+    "objectID": "cv.html#profesional-experience",
+    "href": "cv.html#profesional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "University of Zurich Zurich, Switzerland\n\n\n\nNational Autonomous University of Mexico\nMexico City, Mexico"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "University of Zurich (2018 to 2023)\nZurich, Switzerland\n\n\n\nNational Autonomous University of Mexico (2014 to 2016)\nMexico City, Mexico\n\n\n\nUniversity of Sonora (2009 to 2014)\nHermosillo, Sonora, Mexico"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "R\nBash\nPython\n\n\n\n\n\nComparative Genomics\nRNA-seq\nGWAS\nVariant Calling\nPhylogenetics\n\n\n\n\n\nLinux\nSlurm\nConda\nGit"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Swiss Government Excellence Scholarship\nForschungskredit Candoc UZH\n\nA downloadable PDF version of my CV will be available here."
   },
   {
     "objectID": "publications.html",
@@ -138,5 +131,12 @@
     "title": "Peer-reviewed publications.",
     "section": "2017",
     "text": "2017\n\nMora-Carrera. México y sus polinizadores: crónica de una crisis anunciada. Oikos=. Link"
+  },
+  {
+    "objectID": "index.html#what-i-build",
+    "href": "index.html#what-i-build",
+    "title": "Computational Biologist | Bioinformatician | Genomics Data Scientist",
+    "section": "What I build",
+    "text": "What I build\n\nReproducible bioinformatics workflows\nComparative genomics pipelines\nVariant calling workflows\nRNA-seq analysis pipelines\nData visualization\nHPC-based genomic analyses"
   }
 ]
