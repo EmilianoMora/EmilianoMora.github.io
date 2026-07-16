@@ -35,30 +35,6 @@ University of Sonora
 Hermosillo, Sonora, Mexico
 
 
-## Technical Skills
-
-### Programming
-
-- R
-- Bash
-- Python
-
-### Bioinformatics
-
-- Comparative Genomics
-- RNA-seq
-- GWAS
-- Variant Calling
-- Phylogenetics
-
-### Computing
-
-- Linux
-- Slurm
-- Conda
-- Git
-
-
 ## Teaching experience
 
 * Main teacher – *Pollination Ecology* (Fall 2018). National Autonomous University of Mexico.
