@@ -2,6 +2,8 @@
 
 My background is in evolutionary biology, where I used computational approaches to analyze large-scale biological datasets. Through my research, I developed expertise in programming, statistical analysis, workflow automation, and scientific computing. I am interested in applying these skills to data-driven challenges in biotechnology, healthcare, and technology.
 
+In my free time I like doing pottery. Check out the stuff that I usually give to my friends [here](https://emilianomora.github.io/my_pottery_gallery/)!
+
 ## Technical Interests
 
 - Population genomics
